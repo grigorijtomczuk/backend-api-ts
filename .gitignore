@@ -1,0 +1,11 @@
+# npm
+/node_modules
+
+# TypeScript build directory
+/build
+
+# MongoDB local instance directory
+/db
+
+# Local .env file (for secrets)
+/.env
